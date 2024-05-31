@@ -14,15 +14,15 @@ I am currently pursuing a degree in Computer Science with a track in Data Scienc
   - Key Concepts: Regression, Feature Engineering, Classification, SVM
 
 ### Data Science Project
-- **NBA Player Salaries Analysis**: Analyzed NBA player salaries from the 1980s to the 2010s to determine the impact of conference on player preferences.
-  - [Repository Link](#)
-  - Technologies: Excel, Minitab
-  - Key Concepts: ANOVA, Statistical Analysis
-
 - **MLB Umpire Incorrect Call Analysis**: Investigated the effect of an umpire making an incorrect call on a Major League Baseball game.
-  - [Repository Link](#)
+  - [Notebook Link](https://github.com/jjthisguy/portfolio/blob/main/Notebooks/FinalReport_FA23_EH_MM_JE.ipynb)
   - Technologies: Python, pandas, matplotlib
   - Key Concepts: Data Analysis, Statistical Testing
+- **Mental Health in College Students**: Analyzed mental health data to understand the challenges faced by college students and propose interventions.
+  - [Notebook Link](#)
+  - Technologies: SQL, Python, pandas
+  - Key Concepts: Data Analysis, Mental Health Research
+
 
 - ### Data Analysis Projects
 - **NBA Player Salaries Analysis**: Analyzed NBA player salaries from the 1980s to the 2010s to determine the impact of conference on player preferences.
