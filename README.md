@@ -9,7 +9,7 @@ I am currently pursuing a degree in Computer Science with a track in Data Scienc
 
 ### Machine Learning Projects 
 - **Predicting NBA Salaries**: Created a machine learning model to predict NBA player salaries based on various performance metrics and other features. 
-  - [Notebook Link](https://github.com/jjthisguy/portfolio/blob/main/FinalReport_SP24_JE_BH%20(1).ipynb)
+  - [Notebook Link](https://github.com/jjthisguy/portfolio/blob/main/Notebooks/FinalReport_SP24_JE_BH%20(1).ipynb)
   - Technologies: Python, scikit-learn, pandas, Numpy
   - Key Concepts: Regression, Feature Engineering, Classification, SVM
 
