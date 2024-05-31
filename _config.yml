@@ -1,2 +1,3 @@
 # add the following to _config.yml file
 title: Jonathan Eudja
+theme: jekyll-theme-minimal
