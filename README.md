@@ -25,7 +25,7 @@ I am currently pursuing a degree in Computer Science with a track in Data Scienc
 
 - ### Data Analysis Projects
 - **NBA Player Salaries Analysis**: Analyzed NBA player salaries from the 1980s to the 2010s to determine the impact of conference on player preferences.
-  - [Repository Link](#)
+  - [Microsoft Word Link](https://github.com/jjthisguy/portfolio/blob/main/Notebooks/Data%20Analysis%20Final%20Project%20Research%20Memo.docx)
   - Technologies: Excel, Minitab
   - Key Concepts: ANOVA, Statistical Analysis
 
