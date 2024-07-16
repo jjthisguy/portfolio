@@ -24,7 +24,7 @@ I am currently pursuing a degree in Computer Science with a track in Data Scienc
   - Key Concepts: Data Analysis, Mental Health Research
 - **Netflix Data Science Project**:This project aims to analyze the Netflix dataset to explore various machine learning questions, including predicting IMDb scores, classifying age certifications, and evaluating differences in IMDb scores between movies and TV shows.
   - [Notebook Link](https://github.com/jjthisguy/portfolio/blob/1c2b146ab644b1be75a45d7a0e037bbcee615c02/Notebooks/NetflixDataScienceProject%20(3).ipynb)
-  - [In Depth]()
+  - [In Depth](https://github.com/jjthisguy/portfolio/tree/657ff97daa7d80c3d0549cd3ea168df80b126b36/Netflix%20Data%20Science%20Project)
   - Technologies: Python, pandas, matplotlib, scikit-learn
   - Key Concepts: Data Analysis, Statistical Testing, Machine Learning, Random Forest, Decision Trees
 
