@@ -1,0 +1,10 @@
+#Packages
+pandas==1.5.3
+numpy==1.23.5
+matplotlib==3.6.2
+scikit-learn==1.1.3
+jupyter==1.0.0
+seaborn==0.12.1
+# Additional libraries
+seaborn==0.12.1
+requests>=2.25.1
