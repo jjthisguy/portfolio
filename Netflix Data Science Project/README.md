@@ -30,11 +30,6 @@ The dataset is located in the `data` folder and includes features such as runtim
 ## Conclusion
 The project highlighted the importance of feature selection and model tuning in predictive analytics. Future work could involve exploring deep learning models and incorporating additional features.
 
-## How to Use
-1. Clone this repository.
-2. Ensure you have the required dependencies (listed in `requirements.txt`).
-3. Open and run the Jupyter notebooks in the `notebooks` folder to reproduce the analysis.
-
 ## Future Work
 - Explore advanced models such as neural networks.
 - Incorporate additional features like viewer ratings and social media sentiment.
