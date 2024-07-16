@@ -27,6 +27,11 @@ The dataset is located in the `data` folder and includes features such as runtim
 - The Random Forest model showed overfitting, while the Decision Tree model provided better generalization.
 - The permutation test indicated a significant difference in IMDb scores between movies and TV shows.
 
+## How to Use
+1. Clone this repository.
+2. Ensure you have the required dependencies (listed in `requirements.txt`).
+3. Open and run the Jupyter notebooks in the `notebooks` folder to reproduce the analysis.
+
 ## Conclusion
 The project highlighted the importance of feature selection and model tuning in predictive analytics. Future work could involve exploring deep learning models and incorporating additional features.
 
