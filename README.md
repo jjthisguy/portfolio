@@ -1,9 +1,9 @@
 # Jonathan Eudja's Portfolio
 
-Welcome to my GitHub portfolio! I'm Jonathan Eudja, a college student studying data science. Here you'll find a collection of my projects, showcasing my skills in machine learning and data analysis.
+Welcome to my GitHub portfolio! I'm Jonathan Eudja, a college student studying computer science with a track in data science at DeSales University. Here you'll find a collection of my projects, showcasing my skills in machine learning and data analysis.
 
 ## About Me
-I am currently pursuing a degree in Computer Science with a track in Data Science. My interests include Sports analytics,and applying statistical methods to solve real-world problems.
+I am currently pursuing a degree in Computer Science with a track in Data Science at DeSales University . My interests include Sports analytics, and applying statistical methods to solve real-world problems.
 
 ## Projects
 
