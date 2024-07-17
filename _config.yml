@@ -1,3 +1,4 @@
 # add the following to _config.yml file
 title: Jonathan Eudja
-theme: 
+theme: jekyll-theme-cayman
+
